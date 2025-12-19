@@ -1,4 +1,4 @@
-#mi nombre es cristian uriel nava ibañez 
+#Cristian Uriel Nava Ibañez 
 # programa redondo de ferrocarril
 destino1 = "Acapulco"
 precio1 = 350
